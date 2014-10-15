@@ -1,0 +1,7 @@
+# A sample Bowerfile
+# Check out https://github.com/42dev/bower-rails#ruby-dsl-configuration for more options
+
+#asset 'bootstrap', git: 'https://github.com/twbs/bootstrap.git'
+#asset 'bootstrap-sass-official', git: 'https://github.com/twbs/bootstrap-sass.git'
+#asset 'angular', git: 'https://github.com/angular/angular.git'
+#asset 'jquery', git: 'https://github.com/jquery/jquery.git'
