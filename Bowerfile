@@ -1,3 +1,4 @@
+#fuck bower -- use rails assets instead
 # A sample Bowerfile
 # Check out https://github.com/42dev/bower-rails#ruby-dsl-configuration for more options
 
